@@ -249,3 +249,12 @@ button{
     padding: 5px 30px;
 }
 
+/*footer*/
+
+footer{
+    display: flex;
+    justify-content: center;
+    color: #e5e7eb;
+    background-color: #1f2937;
+    padding: 30px;
+}
