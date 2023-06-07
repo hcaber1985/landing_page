@@ -201,7 +201,51 @@ button{
 
 }
 
+/*call to action*/
+
+.content-block-three{
+    
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
+    
+   
+    
+}
+
+.container-three{
+    background-color: #3882f6;
+    display: flex;
+    border-radius: 8px;
+    width: 60%;
+    height: 45%;
+    justify-content: space-around;
+    align-items: center;
+}
 
 
+.call-to-action{
+    display: flex;
+    flex-direction: column;
+    
+}
 
+.calltoaction{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+.signup{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e5e7eb;
+}
+
+.lowerbutton{
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 5px 30px;
+}
 
