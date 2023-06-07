@@ -168,8 +168,38 @@ button{
     
 }
 
+/*Testimonial Box*/
 
+.content-block-two{
+    display: flex;
+    width: 100;
+    
+    justify-content: center;
+    background-color: #e5e7eb;
+    padding: 60px;
 
+}
+
+.quote{
+    
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+}
+
+.quotation{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1f2937;
+    font-style: italic;
+}
+.thor{
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 15px;
+
+}
 
 
 
