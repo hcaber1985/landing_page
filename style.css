@@ -119,6 +119,7 @@ button{
     color: #1f2937;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
+    padding-top: 20px;
 
     
 }
@@ -126,9 +127,10 @@ button{
 .illustration-holder{
     display: flex;
    
-   
+    justify-content: center;
     padding: 100px;
     padding-top: 50px;
+    gap: 40px;
     
     
 
@@ -140,8 +142,8 @@ button{
     
     align-items: center;
     flex-direction: column;
-    flex: 1; 
-    border: 2px solid black; 
+   
+ 
 }
 
 .box{
@@ -154,13 +156,13 @@ button{
 }
 
 .boxes p{
-    
+    padding-top: 10px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     width: 150px;
     text-align: center;
-    border: 2px solid black;
+    
     
     
     
